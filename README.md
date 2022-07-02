@@ -1,7 +1,5 @@
 # Portfolio
-
-
-	<li>:open_file_folder: Semestrul 1 - Semester 1
+<li>:open_file_folder: Semestrul 1 - Semester 1
 		<ul>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-Alg-2019"> 
@@ -29,4 +27,4 @@
 				</a>
 			</li>
 		</ul>
-	</li>
+</li>
