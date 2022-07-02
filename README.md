@@ -3,7 +3,22 @@
 <ul>
 	<li>
 		<a href="https://github.com/Alexandru-F1/UBB-Alg-2019"> 
-		2️⃣ Algebră - Algebra 2️⃣
+		Home Design AR Application 
+		</a>
+	</li>
+	<li>
+		<a href="https://github.com/Alexandru-F1/UBB-Alg-2019"> 
+		Shapes Color 
+		</a>
+	</li>
+	<li>
+		<a href="https://github.com/Alexandru-F1/UBB-Alg-2019"> 
+		Lost Dog Game 
+		</a>
+	</li>
+	<li>
+		<a href="https://github.com/Alexandru-F1/UBB-Alg-2019"> 
+		3D Virus Simulation Application 
 		</a>
 	</li>
 </ul>
