@@ -27,7 +27,7 @@
 <ul>
 	<li>
 		<a href="https://github.com/Alexandru-F1/UBB-Alg-2019"> 
-		2️⃣ Algebră - Algebra 2️⃣
+		Home Recipes
 		</a>
 	</li>
 </ul>
@@ -36,7 +36,7 @@
 <ul>
 	<li>
 		<a href="https://github.com/Alexandru-F1/UBB-Alg-2019"> 
-		2️⃣ Algebră - Algebra 2️⃣
+		Library Management System
 		</a>
 	</li>
 </ul>
