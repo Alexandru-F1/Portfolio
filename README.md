@@ -1,5 +1,5 @@
 # Portfolio
-<li>💻 Unity
+<li>💻 <big>Unity</big>
 <ul>
 	<li>
 		<a href="https://github.com/RigoCat/Home_Design_AR_Application"> 
@@ -23,7 +23,7 @@
 	</li>
 </ul>
 </li>
-<li>📱 Flutter
+<li>📱 <big>Flutter</big>
 <ul>
 	<li>
 		<a href="https://github.com/Alexandru-F1/UBB-MA-2021"> 
@@ -32,7 +32,7 @@
 	</li>
 </ul>
 </li>
-<li>🛠 C#/.NET
+<li>🛠 <big>C#/.NET</big>
 <ul>
 	<li>
 		<a href="https://github.com/Alexandru-F1/UBB-ISS-2021"> 
