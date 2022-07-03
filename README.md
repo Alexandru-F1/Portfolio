@@ -9,7 +9,7 @@
 	</li>
 	<li>
 		<a href="https://github.com/RigoCat/ShapesColor"> 
-		🔵 Shapes Color 🔵 
+		🟣 Shapes Color 🟣 
 		</a>
 	</li>
 	<li>
