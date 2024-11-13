@@ -8,7 +8,7 @@
 		</a>
 	</li>
 	<li>
-		<a href="[https://github.com/RigoCat/ShapesColor](https://github.com/CataclysmSoftware/ShapesColor)"> 
+		<a href="https://github.com/CataclysmSoftware/ShapesColor"> 
 		🟣 Shapes Color 🟣 
 		</a>
 	</li>
